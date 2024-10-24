@@ -4,7 +4,7 @@ This project demonstrates various techniques and methods to process and analyze 
 
 
 
-
+The following steps are included:
 
 Data Loading and Cleaning:
 
@@ -17,8 +17,9 @@ Common text preprocessing methods such as tokenization and filtering are applied
 
 Visualization
 
+Model building:
 
-Model Training
+Using a logistic regrssion and naive bayes and Model Training
 
 
 our dataset:
